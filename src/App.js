@@ -5,9 +5,17 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+      <a
+          className="App-link"
+          href="https://reactjs.org"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+         I.S.P. HONORIO DELGADO ESPINOZA
+        </a>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+            Siles Quispe Claudia Fátima
         </p>
         <a
           className="App-link"
@@ -15,7 +23,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Turno: Mañana
         </a>
       </header>
     </div>
